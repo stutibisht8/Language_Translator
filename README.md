@@ -128,6 +128,19 @@ This project helped in understanding:
 
 ---
 
+## Project Output Screenshots
+### Home Screen
+![Home Screen](Screenshot1.png)
+
+### Translation Result
+![Translation Result](Screenshot2.png)
+
+### Voice Input
+![Save_Share](Screenshot3.png)
+
+### Language Swap / Additional Feature
+![Voice Input](Screenshot4.png)
+
 ## Author
 **Stuti Bisht**
 GitHub: https://github.com/stutibisht8
