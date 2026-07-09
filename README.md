@@ -135,10 +135,10 @@ This project helped in understanding:
 ### Translation Result
 ![Translation Result](Screenshot2.png)
 
-### Voice Input
+### Save/Share
 ![Save_Share](Screenshot3.png)
 
-### Language Swap / Additional Feature
+### Voice Input
 ![Voice Input](Screenshot4.png)
 
 ## Author
